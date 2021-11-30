@@ -1,0 +1,6 @@
+{
+    "type": "origins:effect_immunity",
+    "effect":"minecraft_mining_fatigue",
+    "name":"miner_haste",
+    "description": "You are immune to mining fatigue"
+}

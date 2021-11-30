@@ -1,0 +1,20 @@
+{
+	"powers": [
+		"axol:eat",
+		"axol:effect",
+		"axol:haste",
+		"axol:silk",
+		"axol:health",
+		"axol:shield",
+		"axol:inventory",
+		"axol:cave_sleep",
+		"axol:start",
+		"axol:size"
+		
+	],
+	"icon": "minecraft:diamond_pickaxe",
+	"order": 5,
+	"impact": 3,
+	"name": "Miner Mole",
+	"description":"An ancient mole civilization expert on the area of mining"
+}
